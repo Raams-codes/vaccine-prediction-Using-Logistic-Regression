@@ -1,1 +1,1 @@
-# vaccine-prediction
+# vaccine prediction Using Logistic Regression
